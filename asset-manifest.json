@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/library-system/static/css/main.2374ece4.css",
+    "main.js": "/library-system/static/js/main.36c78009.js",
+    "index.html": "/library-system/index.html",
+    "main.2374ece4.css.map": "/library-system/static/css/main.2374ece4.css.map",
+    "main.36c78009.js.map": "/library-system/static/js/main.36c78009.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2374ece4.css",
+    "static/js/main.36c78009.js"
+  ]
+}
